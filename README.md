@@ -48,10 +48,12 @@ python main.py
 
 ### B Generar el ejecutable `.exe`
 
-1. Ejecutar el script de construcción:
+1. Clonar o descargar el repositorio:
+git clone https://github.com/uzii1201/PowerRename.git
+2. Ejecutar el script de construcción:
 build.bat
-2. El archivo ejecutable se generará en la carpeta `dist/`.
-3. Ahora se puede ejecutar la app directamente desde `dist/` o usar el menú contextual de Windows (`install_context.bat`).
+3. El archivo ejecutable se generará en la carpeta `dist/`.
+4. Ahora se puede ejecutar la app directamente desde `dist/` o usar el menú contextual de Windows (`install_context.bat`).
 
 ---
 
@@ -75,5 +77,6 @@ build.bat
 
 Este proyecto es solo para fines educativos y demostrativos.
 Puedes usarlo, modificarlo y compartirlo bajo los términos de la licencia **MIT**.
+
 
 
