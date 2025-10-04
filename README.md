@@ -30,6 +30,9 @@ Incluye capturas de pantalla de la aplicación en acción dentro de la carpeta `
 
 ## Instalación y Uso(Dos opciones A/B)
 
+Descargar directamente el ejecutable
+https://github.com/uzii1201/PowerRename/releases/tag/Windows
+
 ### A Desda codigo fuente
 
 1. Clonar o descargar el repositorio:
@@ -77,6 +80,7 @@ build.bat
 
 Este proyecto es solo para fines educativos y demostrativos.
 Puedes usarlo, modificarlo y compartirlo bajo los términos de la licencia **MIT**.
+
 
 
 
