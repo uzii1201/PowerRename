@@ -22,8 +22,8 @@ Una herramienta ligera para Windows que permite renombrar archivos y carpetas de
 Incluye capturas de pantalla de la aplicación en acción dentro de la carpeta `screenshots/` del repositorio.
 
 ```markdown
-![Vista principal](screenshots/main_window.png)
-![Vista previa de renombrado](screenshots/preview.png)
+![Vista principal](screenshots/Ejemplo1.png)
+![Vista previa de renombrado](screenshots/Resultado1.png)
 ```
 
 ---
@@ -75,3 +75,4 @@ build.bat
 
 Este proyecto es solo para fines educativos y demostrativos.
 Puedes usarlo, modificarlo y compartirlo bajo los términos de la licencia **MIT**.
+
