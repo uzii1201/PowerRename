@@ -33,15 +33,10 @@ Incluye capturas de pantalla de la aplicación en acción dentro de la carpeta `
 Descargar directamente el ejecutable
 https://github.com/uzii1201/PowerRename/releases/tag/Windows
 
-### A Desda codigo fuente
+### A. Desda codigo fuente
 
-1. Clonar o descargar el repositorio:
-git clone https://github.com/uzii1201/PowerRename.git
-
-2. Instalar dependencias:
-
-pip install -r requirements.txt
-
+1. Clonar o descargar el repositorio: git clone https://github.com/uzii1201/PowerRename.git
+2. Instalar dependencias: pip install -r requirements.txt
 3. Ejecutar la aplicación:
 python main.py
 
@@ -49,12 +44,10 @@ python main.py
 5. Configurar búsqueda, reemplazo, filtros y opciones de renombrado.
 6. Vista previa de los cambios y, si todo está correcto, aplicar el renombrado.
 
-### B Generar el ejecutable `.exe`
+### B. Generar el ejecutable `.exe`
 
-1. Clonar o descargar el repositorio:
-git clone https://github.com/uzii1201/PowerRename.git
-2. Ejecutar el script de construcción:
-build.bat
+1. Clonar o descargar el repositorio: git clone https://github.com/uzii1201/PowerRename.git
+2. Ejecutar el script de construcción: build.bat
 3. El archivo ejecutable se generará en la carpeta `dist/`.
 4. Ahora se puede ejecutar la app directamente desde `dist/` o usar el menú contextual de Windows (`install_context.bat`).
 
@@ -80,6 +73,7 @@ build.bat
 
 Este proyecto es solo para fines educativos y demostrativos.
 Puedes usarlo, modificarlo y compartirlo bajo los términos de la licencia **MIT**.
+
 
 
 
