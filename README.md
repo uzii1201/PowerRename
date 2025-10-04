@@ -23,7 +23,7 @@ Incluye capturas de pantalla de la aplicación en acción dentro de la carpeta `
 
 ```markdown
 ![Vista principal](screenshots/Ejemplo1.png)
-![Vista previa de renombrado](screenshots/Resultado1.png)
+![Confirmacion de renombrado](screenshots/Resultado1.png)
 ```
 
 ---
@@ -75,4 +75,5 @@ build.bat
 
 Este proyecto es solo para fines educativos y demostrativos.
 Puedes usarlo, modificarlo y compartirlo bajo los términos de la licencia **MIT**.
+
 
